@@ -56,7 +56,7 @@ JobSeekerX is a full-featured platform designed to address the challenges job se
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/JobSeekerX.git
+   git clone https://github.com/Arulpathi/Job_Finder.git
    cd JobSeekerX
 2. Install dependencies:
    ```bash
